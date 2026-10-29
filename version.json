@@ -1,0 +1,10 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/samuel19382293-hue/outputlabs-updates/releases/download/v1.1.0/OutputProgramming.exe",
+  "notes": "Output Programming 1.1.0 - new loading screen, self-updating, Output CV 1.2.0 (key unlock, locked to your PC), faster Remote Play connect.",
+  "required": false,
+  "gpc_url": "",
+  "sha256": "d109b8d9dd2a87066f51aedba9abd0b03ce8fd11a0e339bc0ed15442472a88ae",
+  "size": "228956672",
+  "sig": "94TtYwsWniNbQiy4S_ZmkxJPwjOTkJaQbxZdFMtaB9xtagm9G0z1DZHQ6nU_HRePzqZPAXSfVlyKq1xCnJhVcA"
+}
