@@ -6,5 +6,13 @@
   "gpc_url": "",
   "sha256": "34a949a7a9dd4042ea108eaaa2965d30e59be2b89c3c62dab8964044b6869354",
   "size": "229541888",
-  "sig": "HmhokUvz1kmRsYZRBO1ZSLMymj_OjUvtp-G4ZKppXswMY1lgDDWJUafTcm2ZEnc6wCawgQ3mxMTTjJk_bJLaxw"
+  "cv": {
+    "version": "1.2.1",
+    "build": "2817960e840e6fc8",
+    "url": "https://github.com/samuel19382293-hue/outputlabs-updates/releases/download/cv-1.2.1/OutputCV.payload",
+    "sha256": "32fb681acfdbacaf84eacbe7b8f51488f5df04beec0f9344914856d9676a52ae",
+    "size": "6229164",
+    "notes": "Runs much lighter on your PC - a big CPU cut that removes stutter and lag - for steadier, more consistent shooting. Timing re-centred and stray fires on fading graphics blocked."
+  },
+  "sig": "6QCurK7jnY3iIyjw65Peco7OW4BMCyGJZpgQkvyLZ-yc3GedtCm0h7ezIYboYACXhyt1g3BOIQ9Oy22LLju2Ug"
 }
