@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/samuel19382293-hue/outputlabs-updates/releases/download/v1.1.1/OutputProgramming.exe",
-  "notes": "New look: six themes (Output, Nebula, Chill, Midnight, Gold, Mono) with translucent panels and a nebula backdrop.",
+  "version": "1.1.2",
+  "url": "https://github.com/samuel19382293-hue/outputlabs-updates/releases/download/v1.1.2/OutputProgramming.exe",
+  "notes": "Fixes Xbox Remote Play getting stuck while connecting (it now collects the console's network routes reliably), plus a cleaner, lower-latency video display. Includes Output CV 1.2.1.",
   "required": false,
   "gpc_url": "",
-  "sha256": "34a949a7a9dd4042ea108eaaa2965d30e59be2b89c3c62dab8964044b6869354",
-  "size": "229541888",
+  "sha256": "0c3ab3e5891931c8fb880f333f4ac370dce83897e4df34a614a09a01f41319a0",
+  "size": "229611008",
   "cv": {
     "version": "1.2.1",
     "build": "2817960e840e6fc8",
@@ -14,5 +14,5 @@
     "size": "6229164",
     "notes": "Runs much lighter on your PC - a big CPU cut that removes stutter and lag - for steadier, more consistent shooting. Timing re-centred and stray fires on fading graphics blocked."
   },
-  "sig": "6QCurK7jnY3iIyjw65Peco7OW4BMCyGJZpgQkvyLZ-yc3GedtCm0h7ezIYboYACXhyt1g3BOIQ9Oy22LLju2Ug"
+  "sig": "SqHQVTe6lKOVhhI3mzjrb1eLVlNnCExzi1B1XWS4Ym7FtxOg_sDv_hwsuWDXa9TNgP9BObWYw-NNDiNSYDX7PA"
 }
